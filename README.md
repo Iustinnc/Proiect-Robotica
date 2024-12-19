@@ -41,3 +41,5 @@
 ![WhatsApp Image 2024-12-19 at 16 47 38 (2)](https://github.com/user-attachments/assets/b288bba1-4197-4801-b494-1e87ba76e942)
 ![WhatsApp Image 2024-12-19 at 16 47 38 (1)](https://github.com/user-attachments/assets/630bd5e2-7a42-41cd-95f2-e49cadf75b6f)
 ![WhatsApp Image 2024-12-19 at 16 47 38](https://github.com/user-attachments/assets/79314398-b349-46d6-9297-c2539384436f)
+
+link ul de TinkerCad: https://www.tinkercad.com/things/8PvNvjf9zFc-funky-jaagub
