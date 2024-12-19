@@ -40,7 +40,8 @@
     <img src="[https://upload.wikimedia.org/wikipedia/commons/8/88/Line_follower_robot_using_IR_sensors.jpg](https://images.app.goo.gl/2cFGxdj2H6zqAjp69)" alt="Robot urmăritor de linie" width="400">
     </p>
 
-    <p>Imagini cu partea hardware a robotului: </p>
+<p>Imagini cu partea hardware a robotului: </p>
+
 ![WhatsApp Image 2024-12-19 at 17 11 01 (3)](https://github.com/user-attachments/assets/c6c69e39-50cf-4a84-b9c2-253c1a4af34a)
 ![WhatsApp Image 2024-12-19 at 17 11 01 (2)](https://github.com/user-attachments/assets/bf634bbd-da57-4586-9316-59a1b15cc9cb)
 ![WhatsApp Image 2024-12-19 at 17 11 01 (1)](https://github.com/user-attachments/assets/21e6e4ad-86b8-4d81-856e-a6151ad372a4)
