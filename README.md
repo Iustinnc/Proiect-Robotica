@@ -41,8 +41,10 @@
     </p>
 
     <p>Imagini cu partea hardware a robotului: </p>
-![WhatsApp Image 2024-12-19 at 16 47 38 (2)](https://github.com/user-attachments/assets/b288bba1-4197-4801-b494-1e87ba76e942)
-![WhatsApp Image 2024-12-19 at 16 47 38 (1)](https://github.com/user-attachments/assets/630bd5e2-7a42-41cd-95f2-e49cadf75b6f)
-![WhatsApp Image 2024-12-19 at 16 47 38](https://github.com/user-attachments/assets/79314398-b349-46d6-9297-c2539384436f)
+![WhatsApp Image 2024-12-19 at 17 11 01 (3)](https://github.com/user-attachments/assets/c6c69e39-50cf-4a84-b9c2-253c1a4af34a)
+![WhatsApp Image 2024-12-19 at 17 11 01 (2)](https://github.com/user-attachments/assets/bf634bbd-da57-4586-9316-59a1b15cc9cb)
+![WhatsApp Image 2024-12-19 at 17 11 01 (1)](https://github.com/user-attachments/assets/21e6e4ad-86b8-4d81-856e-a6151ad372a4)
+![WhatsApp Image 2024-12-19 at 17 11 01](https://github.com/user-attachments/assets/c40778d5-3d9a-4dce-9587-d46c81d65d82)
+
 
 link ul de TinkerCad: https://www.tinkercad.com/things/8PvNvjf9zFc-funky-jaagub
