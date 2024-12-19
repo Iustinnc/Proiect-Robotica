@@ -38,3 +38,6 @@
     <p>Imagine reprezentativă a unui robot urmăritor de linie:</p>
     <img src="[https://upload.wikimedia.org/wikipedia/commons/8/88/Line_follower_robot_using_IR_sensors.jpg](https://images.app.goo.gl/2cFGxdj2H6zqAjp69)" alt="Robot urmăritor de linie" width="400">
     </p>
+![WhatsApp Image 2024-12-19 at 16 47 38 (2)](https://github.com/user-attachments/assets/b288bba1-4197-4801-b494-1e87ba76e942)
+![WhatsApp Image 2024-12-19 at 16 47 38 (1)](https://github.com/user-attachments/assets/630bd5e2-7a42-41cd-95f2-e49cadf75b6f)
+![WhatsApp Image 2024-12-19 at 16 47 38](https://github.com/user-attachments/assets/79314398-b349-46d6-9297-c2539384436f)
