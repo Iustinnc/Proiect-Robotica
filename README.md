@@ -3,13 +3,14 @@
 <h2>Componente: </h2>
 
 <ul>
-  <li>1 Micro-Controller ATMega328P</li>
+  <li>1 Micro-Controller Arduino Nano ATMega328P </li>
   <li>1 LED RGB</li>
   <li>1 Ecran LCD</li>
   <li>4 Butoane</li>
   <li>2 Servo-motoare</li>
   <li>2 Roți</li>
   <li>4 Senzori IR (infraroșu)</li>
+  <li>1 Potentiometru </li>
   <li>Rezistențe (număr necunoscut momentan)</li>
   <li>Cabluri de conexiune</li>
 </ul>
@@ -38,6 +39,8 @@
     <p>Imagine reprezentativă a unui robot urmăritor de linie:</p>
     <img src="[https://upload.wikimedia.org/wikipedia/commons/8/88/Line_follower_robot_using_IR_sensors.jpg](https://images.app.goo.gl/2cFGxdj2H6zqAjp69)" alt="Robot urmăritor de linie" width="400">
     </p>
+
+    <p>Imagini cu partea hardware a robotului: </p>
 ![WhatsApp Image 2024-12-19 at 16 47 38 (2)](https://github.com/user-attachments/assets/b288bba1-4197-4801-b494-1e87ba76e942)
 ![WhatsApp Image 2024-12-19 at 16 47 38 (1)](https://github.com/user-attachments/assets/630bd5e2-7a42-41cd-95f2-e49cadf75b6f)
 ![WhatsApp Image 2024-12-19 at 16 47 38](https://github.com/user-attachments/assets/79314398-b349-46d6-9297-c2539384436f)
