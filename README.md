@@ -7,12 +7,22 @@
   <li>1 LED RGB</li>
   <li>1 Ecran LCD</li>
   <li>4 Butoane</li>
-  <li>2 Servo-motoare</li>
+  <li>2 DC Motors</li>
   <li>2 Roți</li>
   <li>4 Senzori IR (infraroșu)</li>
   <li>1 Potentiometru </li>
   <li>Rezistențe (număr necunoscut momentan)</li>
   <li>Cabluri de conexiune</li>
+</ul>
+
+<h2>Mod de functionare: </h2>
+<ul>
+  <li>Ecranul LCD:</li>
+  <p>acesta va fi direct conectat la modulul arduino, luminozitatea va fi controlata de potentiometru, iar pe el va avea un mic meniu de unde se vor putea afisa lap time-ul si distanta parcursa</p>
+  <li>DC Motors:</li>
+  <p>Acestea vor fi controlate de micro-controller, pentru a invarti rotile ce vor face masina sa se deplaseze</p>
+  <li>Senzorii IR:</li>
+  <p>Acestia vor cauta banda neagra, iar in functie de ce ne returneaza senzorii, controller-ul va modifica puterea din motoare astfel incat sa pozitioneze masina pe traiectoria liniei, pe care mai apoi o va urma</p>
 </ul>
 
 <h2>Limbajul de Programare: </h2>
